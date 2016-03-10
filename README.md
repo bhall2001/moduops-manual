@@ -1,4 +1,4 @@
-# ModuOps 1.0.0 Manual
+# ModuOps Manual
 
 Welcome to the manual for the ModuOps software system.
 
