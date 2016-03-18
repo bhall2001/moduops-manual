@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Getting to know ModuOps](chapter1.md)
-* Quickstart Guide
+* [Quickstart Guide](quickstart_guide.md)
 
