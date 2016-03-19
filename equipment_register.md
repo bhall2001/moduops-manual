@@ -3,6 +3,7 @@
 Every Railroad must have rollingstock to ship commodities. The Equipment Register creates the types of equipment available for use on the layout.
 
 ## New Equipment
+
 To create new equipment, click the "New" button. This takes you to the Equipment details screen.
 
 Items in red are required elements when defining your equipment.
@@ -22,11 +23,13 @@ Remarks are optional when defining the equipment. The remarks are typically disp
 When you have entered all the information, click "Done".
 
 ## Edit Equipment
+
 To change information about an existing piece of equipment, double click on the item in the scolling list on the Equipment Register screen.
 
 You are taken to the Equipment Editing screen. Make any changes/corrections on this screen. Click "Done" when finished.
 
 ## Clone Equipment
+
 It is common that you need to create a new piece of equipment that is very similiar to another. Select the equipment in the Equipment Register screen and click "Clone". An exact copy of the equipment is made and you are taken to the Equipment Edit screen.
 
 Make any changes needed to the equipment. The original equipment is left unchanged by this processes.
@@ -34,6 +37,7 @@ Make any changes needed to the equipment. The original equipment is left unchang
 After you have made all your changes, click the "Done" button.
 
 ## Delete Equipment
+
 In the Equipment Register screen, select the Equipment to be deleted form the scrolling list. Click the "Delete" button.
 
 You are asked to confirm your desire to delete the item. THIS CAN NOT BE UNDONE. If you are sure you would like to delete the item, click "Yes".
