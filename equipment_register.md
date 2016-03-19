@@ -34,7 +34,11 @@ Make any changes needed to the equipment. The original equipment is left unchang
 After you have made all your changes, click the "Done" button.
 
 ## Delete Equipment
-In the Equipment R
+In the Equipment Register screen, select the Equipment to be deleted form the scrolling list. Click the "Delete" button.
+
+You are asked to confirm your desire to delete the item. THIS CAN NOT BE UNDONE. If you are sure you would like to delete the item, click "Yes".
+
+Deleting equipment also deletes any related items including Consignee requests for the Equipment.
 
 
 
