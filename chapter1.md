@@ -31,6 +31,8 @@ Also available is the sMarty scheduling engine. This is also a stateless engine 
 ## Home Layouts
 ModuOps works GREAT with home layouts. In fact, there are quite a few home layouts switching from car cards to ModuOps for formal Operating Sessions. Many of the concerns that Free-mo Ops Chiefs have seem to transfer directly to home layout Ops Chiefs as well.
 
+In fact, a home layout is the perfect place to start before diving in to be a Free-mo layout Ops Chief. Most home layouts are smaller than Modular Layouts. Starting with a small layout allows you to learn how ModuOps works.
+
 ## Agile Development Model
 What the heck is that? If you've never heard of Agile Development don't worry. What it means is that we are fans of working on small, focused tasks and when the development on that task is complete, we send it out.
 
