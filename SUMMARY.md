@@ -5,5 +5,5 @@
 * [Quickstart Guide](quickstart_guide.md)
 * [Equipment Register](equipment_register.md)
 * [Modules/Towns](modulestowns.md)
-* Dashboard
+* [Dashboard](dashboard.md)
 
