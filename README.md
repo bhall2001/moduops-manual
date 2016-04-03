@@ -1,4 +1,4 @@
-# ModuOps Manual
+# ModuOps Overview
 
 Welcome to the manual for the ModuOps application.
 
