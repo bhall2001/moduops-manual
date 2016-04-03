@@ -2,6 +2,7 @@
 
 Every Railroad must have rollingstock to ship commodities. The Equipment Register creates the types of equipment available for use on the layout.
 
+![Equipment Register](http://www.moduops.com/images/manual/equipment.png)
 ## New Equipment
 
 To create new equipment, click the "New" button. This takes you to the Equipment details screen.
@@ -43,6 +44,8 @@ In the Equipment Register screen, select the Equipment to be deleted form the sc
 You are asked to confirm your desire to delete the item. THIS CAN NOT BE UNDONE. If you are sure you would like to delete the item, click "Yes".
 
 Deleting equipment also deletes any related items including Consignee requests for the Equipment.
+
+
 
 
 
