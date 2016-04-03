@@ -1,6 +1,6 @@
 # ModuOps Overview
 
-Welcome to the manual for the ModuOps application.
+Welcome to the manual for the ModuOps.
 
 Welcome to version 1.0.0 of the ModuOps software. ModuOps came into being from a desire by the New England Free-mo group to create a car routing system. The primary goal of the group is to reduce the amount of administration needed to get a Modular layout up and Operating.
 
