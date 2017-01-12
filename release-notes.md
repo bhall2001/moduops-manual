@@ -1,16 +1,8 @@
 ### ModuOps 2017.1 Release Notes {#moduops-1-0-0drc3-release-notes}
 
-Welcome to ModuOps!
+### Overview
 
-ModuOps is a random car generator for Model Railroad layouts. ModuOps takes a little different approach to this problem then most Operations software packages as we focus on working with rollingstock type and not reporting marks. Using type reduces the Administrative requirements of Operating Sessions and are self correcting to Operator errors.
-
-ModuOps is originally designed to handle Free-mo layouts. Free-mo is a fantastic standard for model railroads allowing for more realistic layouts that are ripe for Operations. Free-mo layouts are ever-changing with each setup being unique for any other. The complexities and time required to create an Operations Plan for a modular layout such as Free-mo requires an tremendous amount of time. In fact, the time to simply enter reporting marks will easily take longer than the amount of time the layout will exist.
-
-ModuOps allows Ops Chiefs to focus on creating an exciting plan of operations for the layout and do not have to worry about managing the reporting marks of all the cars that may be placed on the layout. With ModuOps, layouts come alive in minimal time with minimal Administration.
-
-Is ModuOps just for Free-mo layouts? Absolutely not! ModuOps is PERFECT for home layouts too! ModuOps is designed to work on layouts that range from a shelf switching layout, all they way up to a layouts the size of a hockey rink.
-
-Is ModuOps done? No. Not even close. This is the 1.0.0 release. We have ideas where the software is going and you can add input as well. Make sure you check out www.moduops.com and for updates and to provide feedback on the software.
+ ModuOps 2017.1 is updated to allow enahnce the operations' realism and begin the process of ModuOps knowning more about the state of a layout during the operations session. New in this version are the addition of car type codes and formal definition of Yards.
 
 #### Scheduling Engines {#scheduling-engines}
 
@@ -26,15 +18,31 @@ sMarty is intended for layouts operations where a better approximation of Protot
 
 #### New in this Version {#new-in-this-version}
 
-* Changes made on Edit screens are now saved automatically when leaving the screen
-* When quitting, Application now clears out all data after saving
-* When opening, Application displays file dialog to open a data file
-* fixed an issue where windows was not adding the .mop extension to data files
-* fixed link to the manual
+* Expanded Car Type Classifications  
+
+* Added Car Type Code \(Intended to be AAR codes. See Ops Sig [AAR Freight Car Codes](http://www.opsig.org/pdf/AARFreightCarCodes.pdf) and Eric Neubauer's [Guide to Car Types](http://eaneubauer.ipower.com/type.pdf)\)
+* Added Modules/Town designation as a Yard
+* Added Train origin/destination Yard selection
+* Added Yard capacity planning based on Train routes and Consignee requests
 
 #### What's Not Working... {#what-s-not-working-}
 
 Drop Zones in a Module/Town have a "Direction" which is the direction the zone faces to be a trailing drop \(A or B\). Zones that are accessible by both sides of a module are not supporter \(faces A & B\). For now, designate these zones as either an A or B.
+
+### Platform Support
+
+ModuOps supports a variety of platforms.
+
+**Windows  
+ **     Windows 7 \(both 32-bit and 64-bit\)  
+      Windows 8.x \(Desktop\)  
+      Windows 10
+
+**Mac OS  
+ **     10.9.x \(Mavericks\) on Intel  
+      10.10.x \(Yosemite\) on Intel  
+      10.11.x \(El Capitan\) on Intel  
+      10.12.x \(Sierra\) on Intel
 
 #### Feedback and Bugs {#feedback-and-bugs}
 
