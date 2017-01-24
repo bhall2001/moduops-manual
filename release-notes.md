@@ -28,7 +28,7 @@ sMarty is intended for layouts operations where a better approximation of Protot
 
 * Added Yard capacity planning based on Train routes and Consignee requests
 
-* Added Reports \(finally\) for Equipment Register, Modules, Yard Capacity and Trains
+* Added Reports \(finally\) for Equipment Register, Modules, Consignees, Drop Zones and Trains
 
 ### Prior .mop files and REQUIRE manual upgrading for Yards
 
@@ -52,12 +52,12 @@ Drop Zones in a Module/Town have a "Direction" which is the direction the zone f
 
 ModuOps supports a variety of platforms.
 
-**Windows      
+**Windows        
  **     Windows 7 \(both 32-bit and 64-bit\)  
       Windows 8.x \(Desktop\)  
       Windows 10
 
-**Mac OS      
+**Mac OS        
  **     10.9.x \(Mavericks\) on Intel  
       10.10.x \(Yosemite\) on Intel  
       10.11.x \(El Capitan\) on Intel  
