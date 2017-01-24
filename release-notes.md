@@ -18,14 +18,17 @@ sMarty is intended for layouts operations where a better approximation of Protot
 
 #### New in this Version {#new-in-this-version}
 
-* Expanded Car Type Classifications
+* Expanded Car Type Classes
 
-* Added Car Type Code \(Intended to be AAR codes. See Ops Sig [AAR Freight Car Codes](http://www.opsig.org/pdf/AARFreightCarCodes.pdf) and Eric Neubauer's [Guide to Car Types](http://eaneubauer.ipower.com/type.pdf)\)
+* Added Car Type Code. Intended to be AAR codes but can be any alpha-numeric code you choose. \(See Ops Sig [AAR Freight Car Codes](http://www.opsig.org/pdf/AARFreightCarCodes.pdf) and Eric Neubauer's [Guide to Car Types](http://eaneubauer.ipower.com/type.pdf) for AAR code references\)
 
 * Added Modules/Town designation as a Yard
+
 * Added Train origin/destination Yard selection
+
 * Added Yard capacity planning based on Train routes and Consignee requests
-* Added Reports \(finally\) for Equipment Register, Modules and Trains
+
+* Added Reports \(finally\) for Equipment Register, Modules, Yard Capacity and Trains
 
 ### Prior .mop files and REQUIRE manual upgrading for Yards
 
@@ -49,12 +52,12 @@ Drop Zones in a Module/Town have a "Direction" which is the direction the zone f
 
 ModuOps supports a variety of platforms.
 
-**Windows    
+**Windows      
  **     Windows 7 \(both 32-bit and 64-bit\)  
       Windows 8.x \(Desktop\)  
       Windows 10
 
-**Mac OS    
+**Mac OS      
  **     10.9.x \(Mavericks\) on Intel  
       10.10.x \(Yosemite\) on Intel  
       10.11.x \(El Capitan\) on Intel  
