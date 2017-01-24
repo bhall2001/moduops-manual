@@ -2,7 +2,7 @@
 
 ### Overview
 
- ModuOps 2017.1 is updated to allow enahnce the operations' realism and begin the process of ModuOps knowning more about the state of a layout during the operations session. New in this version are the addition of car type codes and formal definition of Yards.
+ModuOps 2017.1 is updated to enhance the operations' realism and begin the process of ModuOps knowing more about the state of a layout during an Operations' Session. New in this version are the addition of car type codes and formal definition of Yards.
 
 #### Scheduling Engines {#scheduling-engines}
 
@@ -18,12 +18,28 @@ sMarty is intended for layouts operations where a better approximation of Protot
 
 #### New in this Version {#new-in-this-version}
 
-* Expanded Car Type Classifications  
+* Expanded Car Type Classifications
 
 * Added Car Type Code \(Intended to be AAR codes. See Ops Sig [AAR Freight Car Codes](http://www.opsig.org/pdf/AARFreightCarCodes.pdf) and Eric Neubauer's [Guide to Car Types](http://eaneubauer.ipower.com/type.pdf)\)
+
 * Added Modules/Town designation as a Yard
 * Added Train origin/destination Yard selection
 * Added Yard capacity planning based on Train routes and Consignee requests
+* Added Reports \(finally\) for Equipment Register, Modules and Trains
+
+### Prior .mop files and REQUIRE manual upgrading for Yards
+
+The addition of Yards to the system unfortunately results in a little extra work to convert old data files. Before you are able to edit train information, you must define at least 1 Yard, Interchange or Staging Drop Zone. All Trains are required to originate and terminate at a Drop Zone designated as a Yard.
+
+Steps required to convert data files prior to 2017.1
+
+1. open the .mop data file in ModuOps
+
+2. create a Drop Zone \(or 2, 3, etc...\) designated as a Yard. There is a check box on the Drop Zone Edit screen allowing you to signify the Zone is a Yard. Drop Zones are assigned to Modules/Towns
+
+3. Edit Train details assigning Origin and Destination Yards for each Train defined
+
+4. SAVE YOUR .mop FILE!
 
 #### What's Not Working... {#what-s-not-working-}
 
@@ -33,12 +49,12 @@ Drop Zones in a Module/Town have a "Direction" which is the direction the zone f
 
 ModuOps supports a variety of platforms.
 
-**Windows  
+**Windows    
  **     Windows 7 \(both 32-bit and 64-bit\)  
       Windows 8.x \(Desktop\)  
       Windows 10
 
-**Mac OS  
+**Mac OS    
  **     10.9.x \(Mavericks\) on Intel  
       10.10.x \(Yosemite\) on Intel  
       10.11.x \(El Capitan\) on Intel  
